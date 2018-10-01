@@ -1,0 +1,6 @@
+#categorias {
+    position: absolute;
+    text-align: center;
+    margin-left: 85%;
+    font-size: x-large;
+}
