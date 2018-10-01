@@ -4,3 +4,7 @@
     margin-left: 85%;
     font-size: x-large;
 }
+.linkmenu {
+    color: white;
+    text-decoration: none;
+}
