@@ -8,3 +8,21 @@
     color: white;
     text-decoration: none;
 }
+#espera {
+    text-align: center;
+    font-size: xx-large;
+}
+#hotel {
+    position: absolute;
+    margin-top: 5px;
+}
+#adultos {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 165px;
+}
+#niños {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 310px;
+}
